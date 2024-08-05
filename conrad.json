@@ -1,0 +1,386 @@
+{
+   "firstName":"Conrad",
+   "lastName":"Japhet",
+   "isOpenToWork":true,
+   "isHiring":false,
+   "profilePicture":"https://media.licdn.com/dms/image/C4E03AQHoXsTwEWaDYw/profile-displayphoto-shrink_800_800/0/1601321844100?e=1715817600&v=beta&t=I_TeeFHiWY25YvT-Legro5lxVKVT_vCirictAqP0218",
+   "summary":"I possess a robust proficiency and a profound interest in Python, Solidity, and JavaScript. My practical expertise includes the development and thorough testing of smart contracts on Ethereum and other EVM networks , utilizing industry-standard frameworks such as Hardhat and Foundry. I have successfully crafted arbitrage applications and trade bots for both centralized and decentralized exchanges, acquiring a diverse set of skills throughout these experiences. I am deeply passionate about my work and am eager to contribute to this dynamic and pioneering field of information technology.",
+   "headline":"Blockchain Developer",
+   "geo":{
+      "country":"Türkiye",
+      "city":"Istanbul",
+      "full":"Istanbul, Türkiye"
+   },
+   "languages":[
+      {
+         "name":"English",
+         "proficiency":"NATIVE_OR_BILINGUAL"
+      },
+      {
+         "name":"Spanish",
+         "proficiency":"ELEMENTARY"
+      },
+      {
+         "name":"Swahili",
+         "proficiency":"PROFESSIONAL_WORKING"
+      },
+      {
+         "name":"Turkish",
+         "proficiency":"PROFESSIONAL_WORKING"
+      }
+   ],
+   "educations":[
+      {
+         "start":{
+            "year":2013,
+            "month":0,
+            "day":0
+         },
+         "end":{
+            "year":2018,
+            "month":0,
+            "day":0
+         },
+         "fieldOfStudy":"Information Technology",
+         "degree":"Information Systems Engineering",
+         "grade":"",
+         "schoolName":"Sakarya Üniversitesi",
+         "description":"",
+         "activities":"",
+         "url":"https://www.linkedin.com/school/sakaryauni/",
+         "schoolId":"891981"
+      },
+      {
+         "start":{
+            "year":2015,
+            "month":9,
+            "day":0
+         },
+         "end":{
+            "year":2016,
+            "month":6,
+            "day":0
+         },
+         "fieldOfStudy":"Information Technology",
+         "degree":"Bachelor's degree",
+         "grade":"",
+         "schoolName":"Politechnika Lubelska",
+         "description":"",
+         "activities":"Erasmus Alumni",
+         "url":"https://www.linkedin.com/school/politechnikalubelska/",
+         "schoolId":"69811732"
+      },
+      {
+         "start":{
+            "year":2023,
+            "month":2,
+            "day":0
+         },
+         "end":{
+            "year":0,
+            "month":0,
+            "day":0
+         },
+         "fieldOfStudy":"Web Development",
+         "degree":"",
+         "grade":"",
+         "schoolName":"Zero To Mastery Academy",
+         "description":"",
+         "activities":"",
+         "url":"https://www.linkedin.com/school/ztm-academy/",
+         "schoolId":"64685953"
+      }
+   ],
+   "position":[
+      {
+         "companyName":"",
+         "companyUsername":"",
+         "companyURL":"",
+         "companyLogo":"",
+         "companyIndustry":"",
+         "companyStaffCountRange":"",
+         "title":"Blockchain Developer",
+         "location":"",
+         "description":"",
+         "employmentType":"Freelance",
+         "start":{
+            "year":2023,
+            "month":8,
+            "day":0
+         },
+         "end":{
+            "year":0,
+            "month":0,
+            "day":0
+         }
+      },
+      {
+         "companyName":"Seral Polimer",
+         "companyUsername":"",
+         "companyURL":"",
+         "companyLogo":"",
+         "companyIndustry":"",
+         "companyStaffCountRange":"",
+         "title":"Blockchain Developer",
+         "location":"Turkey",
+         "description":"Devolop trade tools for arbitrage across centralised and decentralised crypto exchanges. Backend development for trading bots .Develop ,test and deploy smart contracts for NFT lending platforms",
+         "employmentType":"Full-time",
+         "start":{
+            "year":2022,
+            "month":2,
+            "day":0
+         },
+         "end":{
+            "year":2023,
+            "month":10,
+            "day":0
+         }
+      },
+      {
+         "companyName":"Wimbledon Language Academy",
+         "companyUsername":"wimbledon-language-academy",
+         "companyURL":"https://www.linkedin.com/company/wimbledon-language-academy/",
+         "companyLogo":"",
+         "companyIndustry":"Education Management",
+         "companyStaffCountRange":"2 - 10",
+         "title":"English Language Teacher",
+         "location":"Sakarya, Turkey",
+         "description":"",
+         "employmentType":"",
+         "start":{
+            "year":2019,
+            "month":5,
+            "day":0
+         },
+         "end":{
+            "year":2021,
+            "month":5,
+            "day":0
+         }
+      },
+      {
+         "companyName":"ID24",
+         "companyUsername":"id24",
+         "companyURL":"https://www.linkedin.com/company/id24/",
+         "companyLogo":"https://media.licdn.com/dms/image/C4D0BAQHfIbceCNWGfg/company-logo_400_400/0/1630572393708/id24_logo?e=1718236800&v=beta&t=gUhDQJKaPb3WD1Q5KfHlopKGKo35hfNjnCUaxQi9-8Y",
+         "companyIndustry":"Information Technology & Services",
+         "companyStaffCountRange":"11 - 50",
+         "title":"IT Consultant",
+         "location":"Uppsala, Sweden",
+         "description":"",
+         "employmentType":"",
+         "start":{
+            "year":2018,
+            "month":11,
+            "day":0
+         },
+         "end":{
+            "year":2019,
+            "month":5,
+            "day":0
+         }
+      },
+      {
+         "companyName":"Well Told Story",
+         "companyUsername":"well-told-story",
+         "companyURL":"https://www.linkedin.com/company/well-told-story/",
+         "companyLogo":"",
+         "companyIndustry":"Media Production",
+         "companyStaffCountRange":"11 - 50",
+         "title":"Network and Distribution Consultant",
+         "location":"Dar Es Salaam ",
+         "description":"Database management and supply chain management",
+         "employmentType":"",
+         "start":{
+            "year":2017,
+            "month":5,
+            "day":0
+         },
+         "end":{
+            "year":2017,
+            "month":9,
+            "day":0
+         }
+      }
+   ],
+   "skills":[
+      {
+         "name":"React.js"
+      },
+      {
+         "name":"Web Services API"
+      },
+      {
+         "name":"Django"
+      },
+      {
+         "name":"Artificial Intelligence (AI)"
+      },
+      {
+         "name":"Large Language Models (LLM)"
+      },
+      {
+         "name":"Smart Contracts"
+      },
+      {
+         "name":"Hardhat"
+      },
+      {
+         "name":"Communication"
+      },
+      {
+         "name":"Planning"
+      },
+      {
+         "name":"Training"
+      },
+      {
+         "name":"Teaching English as a Second Language"
+      },
+      {
+         "name":"Adult Education"
+      },
+      {
+         "name":"ASP.NET"
+      },
+      {
+         "name":"Networkig   "
+      },
+      {
+         "name":"Lead Generation"
+      },
+      {
+         "name":"Data Analysis"
+      },
+      {
+         "name":"Analytical Skills"
+      },
+      {
+         "name":"Business Analysis"
+      },
+      {
+         "name":"Requirements Analysis"
+      },
+      {
+         "name":"Software as a Service (SaaS)"
+      }
+   ],
+   "givenRecommendation":"None",
+   "receivedRecommendation":"None",
+   "courses":"None",
+   "certifications":[
+      {
+         "name":"Crypto Triangular Arbitrage for CEFI and DEFI (Python & Javascript)",
+         "start":{
+            "year":2022,
+            "month":11,
+            "day":0
+         },
+         "end":{
+            "year":0,
+            "month":0,
+            "day":0
+         },
+         "authority":"Udemy",
+         "company":{
+            "name":"Udemy",
+            "universalName":"udemy",
+            "logo":"https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_200_200/0/1630536914848/udemy_logo?e=1718236800&v=beta&t=IyTpaiPpDUPn2g9i2rg6_rEUzWuHkLdCMTxOIigShcA",
+            "staffCountRange":{
+
+            },
+            "headquarter":{
+
+            }
+         },
+         "timePeriod":{
+            "start":{
+               "year":0,
+               "month":0,
+               "day":0
+            },
+            "end":{
+               "year":0,
+               "month":0,
+               "day":0
+            }
+         }
+      },
+      {
+         "name":"Master Ethereum and Solidity Programming 2022",
+         "start":{
+            "year":2022,
+            "month":9,
+            "day":0
+         },
+         "end":{
+            "year":0,
+            "month":0,
+            "day":0
+         },
+         "authority":"Udemy",
+         "company":{
+            "name":"Udemy",
+            "universalName":"udemy",
+            "logo":"https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_200_200/0/1630536914848/udemy_logo?e=1718236800&v=beta&t=IyTpaiPpDUPn2g9i2rg6_rEUzWuHkLdCMTxOIigShcA",
+            "staffCountRange":{
+
+            },
+            "headquarter":{
+
+            }
+         },
+         "timePeriod":{
+            "start":{
+               "year":0,
+               "month":0,
+               "day":0
+            },
+            "end":{
+               "year":0,
+               "month":0,
+               "day":0
+            }
+         }
+      },
+      {
+         "name":"Teaching English as a Foreign Language (TEFL)",
+         "start":{
+            "year":2021,
+            "month":1,
+            "day":0
+         },
+         "end":{
+            "year":0,
+            "month":0,
+            "day":0
+         },
+         "authority":"International TEFL Accreditation Council",
+         "company":{
+            "name":"International TEFL Accreditation Council",
+            "universalName":"international-tefl-accreditation-council",
+            "logo":"https://media.licdn.com/dms/image/C510BAQGWuNhTBnkFeg/company-logo_200_200/0/1631376969800?e=1718236800&v=beta&t=IhEKReh_U9RFy9GHAjqAGiEskiMmYb5sfHd9xbf9m2s",
+            "staffCountRange":{
+
+            },
+            "headquarter":{
+
+            }
+         },
+         "timePeriod":{
+            "start":{
+               "year":0,
+               "month":0,
+               "day":0
+            },
+            "end":{
+               "year":0,
+               "month":0,
+               "day":0
+            }
+         }
+      }
+   ],
+   "honors":"None",
+   "volunteering":"None"
+}
